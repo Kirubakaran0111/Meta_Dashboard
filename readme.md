@@ -1,7 +1,7 @@
 # 📊 Meta Ads Performance Analysis – Power BI Dashboard
 
  
- ![](../Meta_dashboard/Facebook_page.png)
+ ![](/Facebook_page.png)
 
  ### Dashboard File
 You can find the file for the dashboard here: [`Meta_Ad_Performance`](Meta_ad_performance.pbix). 
@@ -147,8 +147,8 @@ Image & Carousel slightly less effective.
 ---
 
  
- ![](../Meta_dashboard/Data_modeling.png)
- ![](../Meta_dashboard/Power_query.png)
+ ![](/Data_modeling.png)
+ ![](/Power_query.png)
 
 ## 📌 Files Included
 
